@@ -1,0 +1,4 @@
+# raw and generated data are too large for GitHub
+data/
+.venv/
+.ipynb_checkpoints/
